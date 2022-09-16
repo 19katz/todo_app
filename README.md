@@ -1,16 +1,18 @@
-# todo_app
+# CS279 HW 2: Flutter App
 
-Todo list app (İş listesi uygulaması)
+A todo-list app in Flutter/Dart. Allows users to add, check off, and edit tasks.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+This repository can be cloned as follows:
 
-A few resources to get you started if this is your first Flutter project:
+`git clone https://github.com/19katz/todo_app.git`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Once cloned locally, navigate to `file:///<path-to-directory>/todo_app/` and use Android Studio
+to set up an emulator and run the app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See `todo_app/lib` for the bulk of the code for the app.
+
+## Citations
+
+This was completed with the following [tutorial.](https://www.c-sharpcorner.com/article/an-introduction-to-programming-through-cpp/)
